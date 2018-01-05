@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <body style="background-color:mediumspringgreen;" >
+      <TITLE>LiteraalyAnything.com</TITLE> 
+      <link rel="stylesheet" href = "style1.css">
+      <style>
+a:link{
+    color: green;
+    background-color: yellow;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: blue;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: green;
+    text-decoration: underline;
+}
+      </style>
+</head>
+
+
+
+<body LEFTMARGIN = 100>
+      <h1 id ="c2" style = "background-color:teal;color:orangered;font-family: jokerman;text-align: center;">
+      <body >  
+      <b><img src="cartoon.gif" alt="cartoon" style="width:48px;height:48px;">ABOUT ME<img src="cartoon.gif" alt="cartoon" style="width:48px;height:48px;"> 
+      </b>
+      </body>
+      </h1>
+</body>  
+      
+<pre style = "text-align: center;"><img src = "IMG_0074.jpg" width = "100" height = "142"></pre>
+<a href ="#C1">jump to exit</a>
+<hr>
+
+
+
+<button type="button" onclick="alert('PRABHNOOR KAUR')">naam</button>
+<button type="button" onclick="alert('29/10/1998')">birthday</button><br>
+<button type="button" onclick="alert('ethusiast explorer')">kaam</button>
+<br>
+
+                 <!--exp with LINKS-->
+
+
+<p id="p02" title ="click to explore" style ="text-align:center;">
+<a href = " file:///C:/Users/Prabhnoor/Desktop/a1.2.html">
+enjoy the link in same window</a>
+<br>
+<a href = "file:///C:/Users/Prabhnoor/Desktop/a1.2.html" target = "_blank">in the new window</a>
+</p>
+
+
+
+
+<p title = "robot" size:"50px">
+       
+      hover over me ;)<br>  
+      <strong>strong </strong><b>bold</b><mark>highlight</mark><del>lazy</del>
+</p>      
+<pre>      PRE COMMAND      saves      new line charcater </pre>   
+
+
+<p>QUOTE</p>
+<blockquote>Live as it was your last day</blockquote>
+
+
+<p>The  <abbr title = "Over Head Transmission">OHT</abbr> occurs when your teacher forgets the students sitting in class and finds interest in explaing to the walls, fans, tubelights etc.;)</p>
+
+<p id = "p01"> style 1</p>                         <!--style css starts-->
+<p class="hello" style="color:maroon;">style 2</p>
+
+
+
+<p style="text-align:center;"><img src ="tree.gif" alt ="tree gif" style ="width:300px;height: 300px;text-align: center;"></p>
+<p style ="text-align: center;">----Realization----<br>
+
+The piece I am going to write<br> would be the first of its kind<br> being my own original<br> so going to keep it short and crisp.</p>
+
+<hr>
+
+<h5 style = "text-align:right;color:crimson; "><address>masterbrain<br>se   millo @<br>aajo haveli pe<br>literallyanything.com</address></h5>
+<h2 id="C1" style="background-color:teal;text-align:center; color:mediumspringgreen">visit again;]</h2>
+<a href = "#c2">jump to top</a>
+
+
+
+
+</body>
+</HTML>
